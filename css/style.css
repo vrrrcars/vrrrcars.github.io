@@ -150,6 +150,7 @@ body{
 	border-bottom:none;
 }
 /***** Media Quries *****/
+.element figure figcaption .btn7:hover{color:#FF8F2B; background-color:#FFFFFF; border-color:#FF8F2B #FFFFFF #FFFFFF #FF8F2B;}
 @media screen and (max-width: 768px) {
 	.wrap{
 		width:95%;
@@ -1146,7 +1147,7 @@ p.m_11{
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
-	float:left;
+	float:center;
 	text-transform: uppercase;
 	font-weight: 100;
 	border-radius: 2px;
